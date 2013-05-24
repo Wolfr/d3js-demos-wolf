@@ -1,4 +1,5 @@
-# Note
+d3js-demos-wolf
+===============
 
 You should run these files on a (local) web server, else the charts won't work.
 
