@@ -1,0 +1,27 @@
+# 5 simple reasons I love d3 as a designer
+
+(demo)
+
+1. Scalability
+
+(demo page zoom)
+
+2. Flexibility
+
+Demo flexibility
+
+3. Fonts
+
+Switch font to serif
+
+4. No flash
+
+(Show chart in ipad simulator)
+
+5. Styling through CSS
+
+Make chart 2 line red
+
+6. Animation
+
+Animation using easy API
